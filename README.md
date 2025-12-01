@@ -45,16 +45,5 @@ python Corversor.py
 - Suporte para selecionar voz, velocidade, ou salvar em outros formatos.
 - Tratamento mais detalhado de erros e logs mais informativos.
 - Adicionar testes automatizados.
-
-## Observações
-
-- Se você planeja distribuir o projeto ou usá-lo frequentemente, considere criar um ambiente virtual (venv / conda) e travar as dependências em um `requirements.txt`.
-
----
-
-Se quiser, posso também:
-- Gerar um `requirements.txt` com a dependência `gTTS`.
-- Modificar `Corversor.py` para suportar argumentos de linha de comando.
-- Traduzir o README para outro idioma.
-
 Diga qual próxima ação prefere.
+
