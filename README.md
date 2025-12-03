@@ -39,11 +39,5 @@ python Corversor.py
 - `IDIOMA_VOZ`: Código do idioma (por exemplo `pt` para português, `en` para inglês).
 - `converter_texto_digitado_para_audio()`: Função principal que realiza a leitura do texto, validação, conversão com gTTS e salvamento do arquivo.
 
-## Possíveis melhorias
 
-- Adicionar suporte para vários arquivos ou conversão via linha de comando (argumentos) sem interação.
-- Suporte para selecionar voz, velocidade, ou salvar em outros formatos.
-- Tratamento mais detalhado de erros e logs mais informativos.
-- Adicionar testes automatizados.
-Diga qual próxima ação prefere.
 
